@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.MainForm.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.ModelCycleDesignForm.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.csproj.GenerateResource.cache
+D:\VisualStudioProjects\FlyApp\FlyApp\bin\Debug\FlyApp.exe.config
+D:\VisualStudioProjects\FlyApp\FlyApp\bin\Debug\FlyApp.exe
+D:\VisualStudioProjects\FlyApp\FlyApp\bin\Debug\FlyApp.pdb
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.Properties.Resources.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.exe
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.pdb
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.CamMechanismDesignForm.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.SliderCrankStartForm.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.PlannerCamDesignForm.resources
+D:\VisualStudioProjects\FlyApp\FlyApp\obj\Debug\FlyApp.SliderCrankInputForm.resources
